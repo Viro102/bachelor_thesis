@@ -1,0 +1,17 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.lof
+*.lot
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.out
+*.run.xml
+*SAVE-ERROR*
+*.synctex*
+.vscode
+*.lol
